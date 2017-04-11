@@ -1,151 +1,151 @@
 <svg height="2366" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2366" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-11 04:53:33 +0000   899848 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-11 04:53:33 +0000     4757 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-11 04:53:33 +0000   154933 bytes  History.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-11 04:53:33 +0000    11237 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-11 04:53:33 +0000     1094 bytes  examples/README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-11 04:53:33 +0000     2938 bytes  examples/aggregate/aggregate.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-11 04:53:33 +0000      320 bytes  examples/aggregate/package.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-11 04:53:33 +0000      393 bytes  examples/aggregate/person.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-11 04:53:33 +0000     1279 bytes  examples/doc-methods.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-11 04:53:33 +0000       28 bytes  examples/express/README.md</tspan>
-<tspan x="10" y="186"> 10.  2017-04-11 04:53:33 +0000      109 bytes  examples/express/connection-sharing/README.md</tspan>
-<tspan x="10" y="202"> 11.  2017-04-11 04:53:33 +0000      423 bytes  examples/express/connection-sharing/app.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-11 04:53:33 +0000      149 bytes  examples/express/connection-sharing/modelA.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-11 04:53:33 +0000      326 bytes  examples/express/connection-sharing/package.json</tspan>
-<tspan x="10" y="250"> 14.  2017-04-11 04:53:33 +0000      443 bytes  examples/express/connection-sharing/routes.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-11 04:53:33 +0000      613 bytes  examples/geospatial/geoJSONSchema.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-11 04:53:33 +0000     1425 bytes  examples/geospatial/geoJSONexample.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-11 04:53:33 +0000     2322 bytes  examples/geospatial/geospatial.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-11 04:53:33 +0000      323 bytes  examples/geospatial/package.json</tspan>
-<tspan x="10" y="330"> 19.  2017-04-11 04:53:33 +0000      704 bytes  examples/geospatial/person.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-11 04:53:33 +0000     1045 bytes  examples/globalschemas/gs_example.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-11 04:53:33 +0000      351 bytes  examples/globalschemas/person.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-11 04:53:33 +0000     2065 bytes  examples/lean/lean.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-11 04:53:33 +0000      305 bytes  examples/lean/package.json</tspan>
-<tspan x="10" y="410"> 24.  2017-04-11 04:53:33 +0000      392 bytes  examples/lean/person.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-11 04:53:33 +0000     2759 bytes  examples/mapreduce/mapreduce.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-11 04:53:33 +0000      322 bytes  examples/mapreduce/package.json</tspan>
-<tspan x="10" y="458"> 27.  2017-04-11 04:53:33 +0000      372 bytes  examples/mapreduce/person.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-11 04:53:33 +0000     2656 bytes  examples/population/population-across-three-coll\</tspan>
+<tspan x="10" y="26">  0.  2017-04-11 04:55:01 +0000   899848 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-11 04:55:01 +0000     4757 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-11 04:55:01 +0000   154933 bytes  History.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-11 04:55:01 +0000    11237 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-11 04:55:01 +0000     1094 bytes  examples/README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-11 04:55:01 +0000     2938 bytes  examples/aggregate/aggregate.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-11 04:55:01 +0000      320 bytes  examples/aggregate/package.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-11 04:55:01 +0000      393 bytes  examples/aggregate/person.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-11 04:55:01 +0000     1279 bytes  examples/doc-methods.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-11 04:55:01 +0000       28 bytes  examples/express/README.md</tspan>
+<tspan x="10" y="186"> 10.  2017-04-11 04:55:01 +0000      109 bytes  examples/express/connection-sharing/README.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-11 04:55:01 +0000      423 bytes  examples/express/connection-sharing/app.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-11 04:55:01 +0000      149 bytes  examples/express/connection-sharing/modelA.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-11 04:55:01 +0000      326 bytes  examples/express/connection-sharing/package.json</tspan>
+<tspan x="10" y="250"> 14.  2017-04-11 04:55:01 +0000      443 bytes  examples/express/connection-sharing/routes.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-11 04:55:01 +0000      613 bytes  examples/geospatial/geoJSONSchema.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-11 04:55:01 +0000     1425 bytes  examples/geospatial/geoJSONexample.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-11 04:55:01 +0000     2322 bytes  examples/geospatial/geospatial.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-11 04:55:01 +0000      323 bytes  examples/geospatial/package.json</tspan>
+<tspan x="10" y="330"> 19.  2017-04-11 04:55:01 +0000      704 bytes  examples/geospatial/person.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-11 04:55:01 +0000     1045 bytes  examples/globalschemas/gs_example.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-11 04:55:01 +0000      351 bytes  examples/globalschemas/person.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-11 04:55:01 +0000     2065 bytes  examples/lean/lean.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-11 04:55:01 +0000      305 bytes  examples/lean/package.json</tspan>
+<tspan x="10" y="410"> 24.  2017-04-11 04:55:01 +0000      392 bytes  examples/lean/person.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-11 04:55:01 +0000     2759 bytes  examples/mapreduce/mapreduce.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-11 04:55:01 +0000      322 bytes  examples/mapreduce/package.json</tspan>
+<tspan x="10" y="458"> 27.  2017-04-11 04:55:01 +0000      372 bytes  examples/mapreduce/person.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-11 04:55:01 +0000     2656 bytes  examples/population/population-across-three-coll\</tspan>
 <tspan x="10" y="490">ections.js</tspan>
-<tspan x="10" y="506"> 29.  2017-04-11 04:53:33 +0000     1846 bytes  examples/population/population-basic.js</tspan>
-<tspan x="10" y="522"> 30.  2017-04-11 04:53:33 +0000     2043 bytes  examples/population/population-of-existing-doc.j\</tspan>
+<tspan x="10" y="506"> 29.  2017-04-11 04:55:01 +0000     1846 bytes  examples/population/population-basic.js</tspan>
+<tspan x="10" y="522"> 30.  2017-04-11 04:55:01 +0000     2043 bytes  examples/population/population-of-existing-doc.j\</tspan>
 <tspan x="10" y="538">s</tspan>
-<tspan x="10" y="554"> 31.  2017-04-11 04:53:33 +0000     2393 bytes  examples/population/population-of-multiple-exist\</tspan>
+<tspan x="10" y="554"> 31.  2017-04-11 04:55:01 +0000     2393 bytes  examples/population/population-of-multiple-exist\</tspan>
 <tspan x="10" y="570">ing-docs.js</tspan>
-<tspan x="10" y="586"> 32.  2017-04-11 04:53:33 +0000     2626 bytes  examples/population/population-options.js</tspan>
-<tspan x="10" y="602"> 33.  2017-04-11 04:53:33 +0000     1954 bytes  examples/population/population-plain-objects.js</tspan>
-<tspan x="10" y="618"> 34.  2017-04-11 04:53:33 +0000      314 bytes  examples/promises/package.json</tspan>
-<tspan x="10" y="634"> 35.  2017-04-11 04:53:33 +0000      352 bytes  examples/promises/person.js</tspan>
-<tspan x="10" y="650"> 36.  2017-04-11 04:53:33 +0000     2319 bytes  examples/promises/promise.js</tspan>
-<tspan x="10" y="666"> 37.  2017-04-11 04:53:33 +0000      331 bytes  examples/querybuilder/package.json</tspan>
-<tspan x="10" y="682"> 38.  2017-04-11 04:53:33 +0000      352 bytes  examples/querybuilder/person.js</tspan>
-<tspan x="10" y="698"> 39.  2017-04-11 04:53:33 +0000     1817 bytes  examples/querybuilder/querybuilder.js</tspan>
-<tspan x="10" y="714"> 40.  2017-04-11 04:53:33 +0000      327 bytes  examples/replicasets/package.json</tspan>
-<tspan x="10" y="730"> 41.  2017-04-11 04:53:33 +0000      352 bytes  examples/replicasets/person.js</tspan>
-<tspan x="10" y="746"> 42.  2017-04-11 04:53:33 +0000     1586 bytes  examples/replicasets/replica-sets.js</tspan>
-<tspan x="10" y="762"> 43.  2017-04-11 04:53:33 +0000     1946 bytes  examples/schema/schema.js</tspan>
-<tspan x="10" y="778"> 44.  2017-04-11 04:53:33 +0000      596 bytes  examples/schema/storing-schemas-as-json/index.js</tspan>
-<tspan x="10" y="794"> 45.  2017-04-11 04:53:33 +0000      165 bytes  examples/schema/storing-schemas-as-json/schema.j\</tspan>
+<tspan x="10" y="586"> 32.  2017-04-11 04:55:01 +0000     2626 bytes  examples/population/population-options.js</tspan>
+<tspan x="10" y="602"> 33.  2017-04-11 04:55:01 +0000     1954 bytes  examples/population/population-plain-objects.js</tspan>
+<tspan x="10" y="618"> 34.  2017-04-11 04:55:01 +0000      314 bytes  examples/promises/package.json</tspan>
+<tspan x="10" y="634"> 35.  2017-04-11 04:55:01 +0000      352 bytes  examples/promises/person.js</tspan>
+<tspan x="10" y="650"> 36.  2017-04-11 04:55:01 +0000     2319 bytes  examples/promises/promise.js</tspan>
+<tspan x="10" y="666"> 37.  2017-04-11 04:55:01 +0000      331 bytes  examples/querybuilder/package.json</tspan>
+<tspan x="10" y="682"> 38.  2017-04-11 04:55:01 +0000      352 bytes  examples/querybuilder/person.js</tspan>
+<tspan x="10" y="698"> 39.  2017-04-11 04:55:01 +0000     1817 bytes  examples/querybuilder/querybuilder.js</tspan>
+<tspan x="10" y="714"> 40.  2017-04-11 04:55:01 +0000      327 bytes  examples/replicasets/package.json</tspan>
+<tspan x="10" y="730"> 41.  2017-04-11 04:55:01 +0000      352 bytes  examples/replicasets/person.js</tspan>
+<tspan x="10" y="746"> 42.  2017-04-11 04:55:01 +0000     1586 bytes  examples/replicasets/replica-sets.js</tspan>
+<tspan x="10" y="762"> 43.  2017-04-11 04:55:01 +0000     1946 bytes  examples/schema/schema.js</tspan>
+<tspan x="10" y="778"> 44.  2017-04-11 04:55:01 +0000      596 bytes  examples/schema/storing-schemas-as-json/index.js</tspan>
+<tspan x="10" y="794"> 45.  2017-04-11 04:55:01 +0000      165 bytes  examples/schema/storing-schemas-as-json/schema.j\</tspan>
 <tspan x="10" y="810">son</tspan>
-<tspan x="10" y="826"> 46.  2017-04-11 04:53:33 +0000      492 bytes  examples/statics/person.js</tspan>
-<tspan x="10" y="842"> 47.  2017-04-11 04:53:33 +0000      882 bytes  examples/statics/statics.js</tspan>
-<tspan x="10" y="858"> 48.  2017-04-11 04:53:33 +0000       72 bytes  index.js</tspan>
-<tspan x="10" y="874"> 49.  2017-04-11 04:53:33 +0000      779 bytes  lib/ES6Promise.js</tspan>
-<tspan x="10" y="890"> 50.  2017-04-11 04:53:33 +0000    21876 bytes  lib/aggregate.js</tspan>
-<tspan x="10" y="906"> 51.  2017-04-11 04:53:33 +0000     2329 bytes  lib/browser.js</tspan>
-<tspan x="10" y="922"> 52.  2017-04-11 04:53:33 +0000     7848 bytes  lib/browserDocument.js</tspan>
-<tspan x="10" y="938"> 53.  2017-04-11 04:53:33 +0000     8304 bytes  lib/cast.js</tspan>
-<tspan x="10" y="954"> 54.  2017-04-11 04:53:33 +0000     4086 bytes  lib/collection.js</tspan>
-<tspan x="10" y="970"> 55.  2017-04-11 04:53:33 +0000    23897 bytes  lib/connection.js</tspan>
-<tspan x="10" y="986"> 56.  2017-04-11 04:53:33 +0000      607 bytes  lib/connectionstate.js</tspan>
-<tspan x="10" y="1002"> 57.  2017-04-11 04:53:33 +0000    67405 bytes  lib/document.js</tspan>
-<tspan x="10" y="1018"> 58.  2017-04-11 04:53:33 +0000      447 bytes  lib/document_provider.js</tspan>
-<tspan x="10" y="1034"> 59.  2017-04-11 04:53:33 +0000      275 bytes  lib/document_provider.web.js</tspan>
-<tspan x="10" y="1050"> 60.  2017-04-11 04:53:33 +0000       21 bytes  lib/drivers/SPEC.md</tspan>
-<tspan x="10" y="1066"> 61.  2017-04-11 04:53:33 +0000       51 bytes  lib/drivers/browser/ReadPreference.js</tspan>
-<tspan x="10" y="1082"> 62.  2017-04-11 04:53:33 +0000      135 bytes  lib/drivers/browser/binary.js</tspan>
-<tspan x="10" y="1098"> 63.  2017-04-11 04:53:33 +0000      162 bytes  lib/drivers/browser/index.js</tspan>
-<tspan x="10" y="1114"> 64.  2017-04-11 04:53:33 +0000      243 bytes  lib/drivers/browser/objectid.js</tspan>
-<tspan x="10" y="1130"> 65.  2017-04-11 04:53:33 +0000      234 bytes  lib/drivers/index.js</tspan>
-<tspan x="10" y="1146"> 66.  2017-04-11 04:53:33 +0000       58 bytes  lib/drivers/index.web.js</tspan>
-<tspan x="10" y="1162"> 67.  2017-04-11 04:53:33 +0000      758 bytes  lib/drivers/node-mongodb-native/ReadPreference.j\</tspan>
+<tspan x="10" y="826"> 46.  2017-04-11 04:55:01 +0000      492 bytes  examples/statics/person.js</tspan>
+<tspan x="10" y="842"> 47.  2017-04-11 04:55:01 +0000      882 bytes  examples/statics/statics.js</tspan>
+<tspan x="10" y="858"> 48.  2017-04-11 04:55:01 +0000       72 bytes  index.js</tspan>
+<tspan x="10" y="874"> 49.  2017-04-11 04:55:01 +0000      779 bytes  lib/ES6Promise.js</tspan>
+<tspan x="10" y="890"> 50.  2017-04-11 04:55:01 +0000    21876 bytes  lib/aggregate.js</tspan>
+<tspan x="10" y="906"> 51.  2017-04-11 04:55:01 +0000     2329 bytes  lib/browser.js</tspan>
+<tspan x="10" y="922"> 52.  2017-04-11 04:55:01 +0000     7848 bytes  lib/browserDocument.js</tspan>
+<tspan x="10" y="938"> 53.  2017-04-11 04:55:01 +0000     8304 bytes  lib/cast.js</tspan>
+<tspan x="10" y="954"> 54.  2017-04-11 04:55:01 +0000     4086 bytes  lib/collection.js</tspan>
+<tspan x="10" y="970"> 55.  2017-04-11 04:55:01 +0000    23897 bytes  lib/connection.js</tspan>
+<tspan x="10" y="986"> 56.  2017-04-11 04:55:01 +0000      607 bytes  lib/connectionstate.js</tspan>
+<tspan x="10" y="1002"> 57.  2017-04-11 04:55:01 +0000    67405 bytes  lib/document.js</tspan>
+<tspan x="10" y="1018"> 58.  2017-04-11 04:55:01 +0000      447 bytes  lib/document_provider.js</tspan>
+<tspan x="10" y="1034"> 59.  2017-04-11 04:55:01 +0000      275 bytes  lib/document_provider.web.js</tspan>
+<tspan x="10" y="1050"> 60.  2017-04-11 04:55:01 +0000       21 bytes  lib/drivers/SPEC.md</tspan>
+<tspan x="10" y="1066"> 61.  2017-04-11 04:55:01 +0000       51 bytes  lib/drivers/browser/ReadPreference.js</tspan>
+<tspan x="10" y="1082"> 62.  2017-04-11 04:55:01 +0000      135 bytes  lib/drivers/browser/binary.js</tspan>
+<tspan x="10" y="1098"> 63.  2017-04-11 04:55:01 +0000      162 bytes  lib/drivers/browser/index.js</tspan>
+<tspan x="10" y="1114"> 64.  2017-04-11 04:55:01 +0000      243 bytes  lib/drivers/browser/objectid.js</tspan>
+<tspan x="10" y="1130"> 65.  2017-04-11 04:55:01 +0000      234 bytes  lib/drivers/index.js</tspan>
+<tspan x="10" y="1146"> 66.  2017-04-11 04:55:01 +0000       58 bytes  lib/drivers/index.web.js</tspan>
+<tspan x="10" y="1162"> 67.  2017-04-11 04:55:01 +0000      758 bytes  lib/drivers/node-mongodb-native/ReadPreference.j\</tspan>
 <tspan x="10" y="1178">s</tspan>
-<tspan x="10" y="1194"> 68.  2017-04-11 04:53:33 +0000      110 bytes  lib/drivers/node-mongodb-native/binary.js</tspan>
-<tspan x="10" y="1210"> 69.  2017-04-11 04:53:33 +0000     6966 bytes  lib/drivers/node-mongodb-native/collection.js</tspan>
-<tspan x="10" y="1226"> 70.  2017-04-11 04:53:33 +0000    10232 bytes  lib/drivers/node-mongodb-native/connection.js</tspan>
-<tspan x="10" y="1242"> 71.  2017-04-11 04:53:33 +0000      162 bytes  lib/drivers/node-mongodb-native/index.js</tspan>
-<tspan x="10" y="1258"> 72.  2017-04-11 04:53:33 +0000      246 bytes  lib/drivers/node-mongodb-native/objectid.js</tspan>
-<tspan x="10" y="1274"> 73.  2017-04-11 04:53:33 +0000     1409 bytes  lib/error.js</tspan>
-<tspan x="10" y="1290"> 74.  2017-04-11 04:53:33 +0000      675 bytes  lib/error/browserMissingSchema.js</tspan>
-<tspan x="10" y="1306"> 75.  2017-04-11 04:53:33 +0000     1327 bytes  lib/error/cast.js</tspan>
-<tspan x="10" y="1322"> 76.  2017-04-11 04:53:33 +0000      844 bytes  lib/error/disconnected.js</tspan>
-<tspan x="10" y="1338"> 77.  2017-04-11 04:53:33 +0000     1170 bytes  lib/error/divergentArray.js</tspan>
-<tspan x="10" y="1354"> 78.  2017-04-11 04:53:33 +0000     1776 bytes  lib/error/messages.js</tspan>
-<tspan x="10" y="1370"> 79.  2017-04-11 04:53:33 +0000      689 bytes  lib/error/missingSchema.js</tspan>
-<tspan x="10" y="1386"> 80.  2017-04-11 04:53:33 +0000      752 bytes  lib/error/notFound.js</tspan>
-<tspan x="10" y="1402"> 81.  2017-04-11 04:53:33 +0000      796 bytes  lib/error/objectExpected.js</tspan>
-<tspan x="10" y="1418"> 82.  2017-04-11 04:53:33 +0000      625 bytes  lib/error/overwriteModel.js</tspan>
-<tspan x="10" y="1434"> 83.  2017-04-11 04:53:33 +0000      758 bytes  lib/error/strict.js</tspan>
-<tspan x="10" y="1450"> 84.  2017-04-11 04:53:33 +0000     1240 bytes  lib/error/validation.js</tspan>
-<tspan x="10" y="1466"> 85.  2017-04-11 04:53:33 +0000     1724 bytes  lib/error/validator.js</tspan>
-<tspan x="10" y="1482"> 86.  2017-04-11 04:53:33 +0000      537 bytes  lib/error/version.js</tspan>
-<tspan x="10" y="1498"> 87.  2017-04-11 04:53:33 +0000    20435 bytes  lib/index.js</tspan>
-<tspan x="10" y="1514"> 88.  2017-04-11 04:53:33 +0000      908 bytes  lib/internal.js</tspan>
-<tspan x="10" y="1530"> 89.  2017-04-11 04:53:33 +0000   109529 bytes  lib/model.js</tspan>
-<tspan x="10" y="1546"> 90.  2017-04-11 04:53:33 +0000     8193 bytes  lib/promise.js</tspan>
-<tspan x="10" y="1562"> 91.  2017-04-11 04:53:33 +0000      747 bytes  lib/promise_provider.js</tspan>
-<tspan x="10" y="1578"> 92.  2017-04-11 04:53:33 +0000    96695 bytes  lib/query.js</tspan>
-<tspan x="10" y="1594"> 93.  2017-04-11 04:53:33 +0000     8082 bytes  lib/querycursor.js</tspan>
-<tspan x="10" y="1610"> 94.  2017-04-11 04:53:33 +0000     4297 bytes  lib/queryhelpers.js</tspan>
-<tspan x="10" y="1626"> 95.  2017-04-11 04:53:33 +0000     8272 bytes  lib/querystream.js</tspan>
-<tspan x="10" y="1642"> 96.  2017-04-11 04:53:33 +0000    47559 bytes  lib/schema.js</tspan>
-<tspan x="10" y="1658"> 97.  2017-04-11 04:53:33 +0000     8097 bytes  lib/schema/array.js</tspan>
-<tspan x="10" y="1674"> 98.  2017-04-11 04:53:33 +0000     1905 bytes  lib/schema/boolean.js</tspan>
-<tspan x="10" y="1690"> 99.  2017-04-11 04:53:33 +0000     4424 bytes  lib/schema/buffer.js</tspan>
-<tspan x="10" y="1706">100.  2017-04-11 04:53:33 +0000     7560 bytes  lib/schema/date.js</tspan>
-<tspan x="10" y="1722">101.  2017-04-11 04:53:33 +0000     3722 bytes  lib/schema/decimal128.js</tspan>
-<tspan x="10" y="1738">102.  2017-04-11 04:53:33 +0000     9643 bytes  lib/schema/documentarray.js</tspan>
-<tspan x="10" y="1754">103.  2017-04-11 04:53:33 +0000     4832 bytes  lib/schema/embedded.js</tspan>
-<tspan x="10" y="1770">104.  2017-04-11 04:53:33 +0000      606 bytes  lib/schema/index.js</tspan>
-<tspan x="10" y="1786">105.  2017-04-11 04:53:33 +0000     1475 bytes  lib/schema/mixed.js</tspan>
-<tspan x="10" y="1802">106.  2017-04-11 04:53:33 +0000     7421 bytes  lib/schema/number.js</tspan>
-<tspan x="10" y="1818">107.  2017-04-11 04:53:33 +0000     4335 bytes  lib/schema/objectid.js</tspan>
-<tspan x="10" y="1834">108.  2017-04-11 04:53:33 +0000      601 bytes  lib/schema/operators/bitwise.js</tspan>
-<tspan x="10" y="1850">109.  2017-04-11 04:53:33 +0000      184 bytes  lib/schema/operators/exists.js</tspan>
-<tspan x="10" y="1866">110.  2017-04-11 04:53:33 +0000     2201 bytes  lib/schema/operators/geospatial.js</tspan>
-<tspan x="10" y="1882">111.  2017-04-11 04:53:33 +0000      519 bytes  lib/schema/operators/helpers.js</tspan>
-<tspan x="10" y="1898">112.  2017-04-11 04:53:33 +0000      214 bytes  lib/schema/operators/type.js</tspan>
-<tspan x="10" y="1914">113.  2017-04-11 04:53:33 +0000    13949 bytes  lib/schema/string.js</tspan>
-<tspan x="10" y="1930">114.  2017-04-11 04:53:33 +0000    28292 bytes  lib/schematype.js</tspan>
-<tspan x="10" y="1946">115.  2017-04-11 04:53:33 +0000     1808 bytes  lib/services/common.js</tspan>
-<tspan x="10" y="1962">116.  2017-04-11 04:53:33 +0000     4892 bytes  lib/services/model/applyHooks.js</tspan>
-<tspan x="10" y="1978">117.  2017-04-11 04:53:33 +0000      850 bytes  lib/services/model/applyMethods.js</tspan>
-<tspan x="10" y="1994">118.  2017-04-11 04:53:33 +0000      239 bytes  lib/services/model/applyStatics.js</tspan>
-<tspan x="10" y="2010">119.  2017-04-11 04:53:33 +0000     3101 bytes  lib/services/model/discriminator.js</tspan>
-<tspan x="10" y="2026">120.  2017-04-11 04:53:33 +0000      564 bytes  lib/services/projection/isPathSelectedInclusive.\</tspan>
+<tspan x="10" y="1194"> 68.  2017-04-11 04:55:01 +0000      110 bytes  lib/drivers/node-mongodb-native/binary.js</tspan>
+<tspan x="10" y="1210"> 69.  2017-04-11 04:55:01 +0000     6966 bytes  lib/drivers/node-mongodb-native/collection.js</tspan>
+<tspan x="10" y="1226"> 70.  2017-04-11 04:55:01 +0000    10232 bytes  lib/drivers/node-mongodb-native/connection.js</tspan>
+<tspan x="10" y="1242"> 71.  2017-04-11 04:55:01 +0000      162 bytes  lib/drivers/node-mongodb-native/index.js</tspan>
+<tspan x="10" y="1258"> 72.  2017-04-11 04:55:01 +0000      246 bytes  lib/drivers/node-mongodb-native/objectid.js</tspan>
+<tspan x="10" y="1274"> 73.  2017-04-11 04:55:01 +0000     1409 bytes  lib/error.js</tspan>
+<tspan x="10" y="1290"> 74.  2017-04-11 04:55:01 +0000      675 bytes  lib/error/browserMissingSchema.js</tspan>
+<tspan x="10" y="1306"> 75.  2017-04-11 04:55:01 +0000     1327 bytes  lib/error/cast.js</tspan>
+<tspan x="10" y="1322"> 76.  2017-04-11 04:55:01 +0000      844 bytes  lib/error/disconnected.js</tspan>
+<tspan x="10" y="1338"> 77.  2017-04-11 04:55:01 +0000     1170 bytes  lib/error/divergentArray.js</tspan>
+<tspan x="10" y="1354"> 78.  2017-04-11 04:55:01 +0000     1776 bytes  lib/error/messages.js</tspan>
+<tspan x="10" y="1370"> 79.  2017-04-11 04:55:01 +0000      689 bytes  lib/error/missingSchema.js</tspan>
+<tspan x="10" y="1386"> 80.  2017-04-11 04:55:01 +0000      752 bytes  lib/error/notFound.js</tspan>
+<tspan x="10" y="1402"> 81.  2017-04-11 04:55:01 +0000      796 bytes  lib/error/objectExpected.js</tspan>
+<tspan x="10" y="1418"> 82.  2017-04-11 04:55:01 +0000      625 bytes  lib/error/overwriteModel.js</tspan>
+<tspan x="10" y="1434"> 83.  2017-04-11 04:55:01 +0000      758 bytes  lib/error/strict.js</tspan>
+<tspan x="10" y="1450"> 84.  2017-04-11 04:55:01 +0000     1240 bytes  lib/error/validation.js</tspan>
+<tspan x="10" y="1466"> 85.  2017-04-11 04:55:01 +0000     1724 bytes  lib/error/validator.js</tspan>
+<tspan x="10" y="1482"> 86.  2017-04-11 04:55:01 +0000      537 bytes  lib/error/version.js</tspan>
+<tspan x="10" y="1498"> 87.  2017-04-11 04:55:01 +0000    20435 bytes  lib/index.js</tspan>
+<tspan x="10" y="1514"> 88.  2017-04-11 04:55:01 +0000      908 bytes  lib/internal.js</tspan>
+<tspan x="10" y="1530"> 89.  2017-04-11 04:55:01 +0000   109529 bytes  lib/model.js</tspan>
+<tspan x="10" y="1546"> 90.  2017-04-11 04:55:01 +0000     8193 bytes  lib/promise.js</tspan>
+<tspan x="10" y="1562"> 91.  2017-04-11 04:55:01 +0000      747 bytes  lib/promise_provider.js</tspan>
+<tspan x="10" y="1578"> 92.  2017-04-11 04:55:01 +0000    96695 bytes  lib/query.js</tspan>
+<tspan x="10" y="1594"> 93.  2017-04-11 04:55:01 +0000     8082 bytes  lib/querycursor.js</tspan>
+<tspan x="10" y="1610"> 94.  2017-04-11 04:55:01 +0000     4297 bytes  lib/queryhelpers.js</tspan>
+<tspan x="10" y="1626"> 95.  2017-04-11 04:55:01 +0000     8272 bytes  lib/querystream.js</tspan>
+<tspan x="10" y="1642"> 96.  2017-04-11 04:55:01 +0000    47559 bytes  lib/schema.js</tspan>
+<tspan x="10" y="1658"> 97.  2017-04-11 04:55:01 +0000     8097 bytes  lib/schema/array.js</tspan>
+<tspan x="10" y="1674"> 98.  2017-04-11 04:55:01 +0000     1905 bytes  lib/schema/boolean.js</tspan>
+<tspan x="10" y="1690"> 99.  2017-04-11 04:55:01 +0000     4424 bytes  lib/schema/buffer.js</tspan>
+<tspan x="10" y="1706">100.  2017-04-11 04:55:01 +0000     7560 bytes  lib/schema/date.js</tspan>
+<tspan x="10" y="1722">101.  2017-04-11 04:55:01 +0000     3722 bytes  lib/schema/decimal128.js</tspan>
+<tspan x="10" y="1738">102.  2017-04-11 04:55:01 +0000     9643 bytes  lib/schema/documentarray.js</tspan>
+<tspan x="10" y="1754">103.  2017-04-11 04:55:01 +0000     4832 bytes  lib/schema/embedded.js</tspan>
+<tspan x="10" y="1770">104.  2017-04-11 04:55:01 +0000      606 bytes  lib/schema/index.js</tspan>
+<tspan x="10" y="1786">105.  2017-04-11 04:55:01 +0000     1475 bytes  lib/schema/mixed.js</tspan>
+<tspan x="10" y="1802">106.  2017-04-11 04:55:01 +0000     7421 bytes  lib/schema/number.js</tspan>
+<tspan x="10" y="1818">107.  2017-04-11 04:55:01 +0000     4335 bytes  lib/schema/objectid.js</tspan>
+<tspan x="10" y="1834">108.  2017-04-11 04:55:01 +0000      601 bytes  lib/schema/operators/bitwise.js</tspan>
+<tspan x="10" y="1850">109.  2017-04-11 04:55:01 +0000      184 bytes  lib/schema/operators/exists.js</tspan>
+<tspan x="10" y="1866">110.  2017-04-11 04:55:01 +0000     2201 bytes  lib/schema/operators/geospatial.js</tspan>
+<tspan x="10" y="1882">111.  2017-04-11 04:55:01 +0000      519 bytes  lib/schema/operators/helpers.js</tspan>
+<tspan x="10" y="1898">112.  2017-04-11 04:55:01 +0000      214 bytes  lib/schema/operators/type.js</tspan>
+<tspan x="10" y="1914">113.  2017-04-11 04:55:01 +0000    13949 bytes  lib/schema/string.js</tspan>
+<tspan x="10" y="1930">114.  2017-04-11 04:55:01 +0000    28292 bytes  lib/schematype.js</tspan>
+<tspan x="10" y="1946">115.  2017-04-11 04:55:01 +0000     1808 bytes  lib/services/common.js</tspan>
+<tspan x="10" y="1962">116.  2017-04-11 04:55:01 +0000     4892 bytes  lib/services/model/applyHooks.js</tspan>
+<tspan x="10" y="1978">117.  2017-04-11 04:55:01 +0000      850 bytes  lib/services/model/applyMethods.js</tspan>
+<tspan x="10" y="1994">118.  2017-04-11 04:55:01 +0000      239 bytes  lib/services/model/applyStatics.js</tspan>
+<tspan x="10" y="2010">119.  2017-04-11 04:55:01 +0000     3101 bytes  lib/services/model/discriminator.js</tspan>
+<tspan x="10" y="2026">120.  2017-04-11 04:55:01 +0000      564 bytes  lib/services/projection/isPathSelectedInclusive.\</tspan>
 <tspan x="10" y="2042">js</tspan>
-<tspan x="10" y="2058">121.  2017-04-11 04:53:33 +0000     7570 bytes  lib/services/query/castUpdate.js</tspan>
-<tspan x="10" y="2074">122.  2017-04-11 04:53:33 +0000     3251 bytes  lib/services/setDefaultsOnInsert.js</tspan>
-<tspan x="10" y="2090">123.  2017-04-11 04:53:33 +0000     5123 bytes  lib/services/updateValidators.js</tspan>
-<tspan x="10" y="2106">124.  2017-04-11 04:53:33 +0000     4386 bytes  lib/statemachine.js</tspan>
-<tspan x="10" y="2122">125.  2017-04-11 04:53:33 +0000    21185 bytes  lib/types/array.js</tspan>
-<tspan x="10" y="2138">126.  2017-04-11 04:53:33 +0000     5599 bytes  lib/types/buffer.js</tspan>
-<tspan x="10" y="2154">127.  2017-04-11 04:53:33 +0000      177 bytes  lib/types/decimal128.js</tspan>
-<tspan x="10" y="2170">128.  2017-04-11 04:53:33 +0000     7431 bytes  lib/types/documentarray.js</tspan>
-<tspan x="10" y="2186">129.  2017-04-11 04:53:33 +0000     7985 bytes  lib/types/embedded.js</tspan>
-<tspan x="10" y="2202">130.  2017-04-11 04:53:33 +0000      369 bytes  lib/types/index.js</tspan>
-<tspan x="10" y="2218">131.  2017-04-11 04:53:33 +0000      207 bytes  lib/types/objectid.js</tspan>
-<tspan x="10" y="2234">132.  2017-04-11 04:53:33 +0000     3709 bytes  lib/types/subdocument.js</tspan>
-<tspan x="10" y="2250">133.  2017-04-11 04:53:33 +0000    18277 bytes  lib/utils.js</tspan>
-<tspan x="10" y="2266">134.  2017-04-11 04:53:33 +0000     2032 bytes  lib/virtualtype.js</tspan>
-<tspan x="10" y="2282">135.  2017-04-11 04:53:33 +0000        0 bytes  mongodb-cert.key</tspan>
-<tspan x="10" y="2298">136.  2017-04-11 04:53:33 +0000     4035 bytes  package.json</tspan>
-<tspan x="10" y="2314">137.  2017-04-11 04:53:33 +0000     1145 bytes  release-items.md</tspan>
-<tspan x="10" y="2330">138.  2017-04-11 04:53:33 +0000      552 bytes  static.js</tspan>
-<tspan x="10" y="2346">139.  2017-04-11 04:53:33 +0000     2263 bytes  website.js</tspan>
+<tspan x="10" y="2058">121.  2017-04-11 04:55:01 +0000     7570 bytes  lib/services/query/castUpdate.js</tspan>
+<tspan x="10" y="2074">122.  2017-04-11 04:55:01 +0000     3251 bytes  lib/services/setDefaultsOnInsert.js</tspan>
+<tspan x="10" y="2090">123.  2017-04-11 04:55:01 +0000     5123 bytes  lib/services/updateValidators.js</tspan>
+<tspan x="10" y="2106">124.  2017-04-11 04:55:01 +0000     4386 bytes  lib/statemachine.js</tspan>
+<tspan x="10" y="2122">125.  2017-04-11 04:55:01 +0000    21185 bytes  lib/types/array.js</tspan>
+<tspan x="10" y="2138">126.  2017-04-11 04:55:01 +0000     5599 bytes  lib/types/buffer.js</tspan>
+<tspan x="10" y="2154">127.  2017-04-11 04:55:01 +0000      177 bytes  lib/types/decimal128.js</tspan>
+<tspan x="10" y="2170">128.  2017-04-11 04:55:01 +0000     7431 bytes  lib/types/documentarray.js</tspan>
+<tspan x="10" y="2186">129.  2017-04-11 04:55:01 +0000     7985 bytes  lib/types/embedded.js</tspan>
+<tspan x="10" y="2202">130.  2017-04-11 04:55:01 +0000      369 bytes  lib/types/index.js</tspan>
+<tspan x="10" y="2218">131.  2017-04-11 04:55:01 +0000      207 bytes  lib/types/objectid.js</tspan>
+<tspan x="10" y="2234">132.  2017-04-11 04:55:01 +0000     3709 bytes  lib/types/subdocument.js</tspan>
+<tspan x="10" y="2250">133.  2017-04-11 04:55:01 +0000    18277 bytes  lib/utils.js</tspan>
+<tspan x="10" y="2266">134.  2017-04-11 04:55:01 +0000     2032 bytes  lib/virtualtype.js</tspan>
+<tspan x="10" y="2282">135.  2017-04-11 04:55:01 +0000        0 bytes  mongodb-cert.key</tspan>
+<tspan x="10" y="2298">136.  2017-04-11 04:55:01 +0000     4035 bytes  package.json</tspan>
+<tspan x="10" y="2314">137.  2017-04-11 04:55:01 +0000     1145 bytes  release-items.md</tspan>
+<tspan x="10" y="2330">138.  2017-04-11 04:55:01 +0000      552 bytes  static.js</tspan>
+<tspan x="10" y="2346">139.  2017-04-11 04:55:01 +0000     2263 bytes  website.js</tspan>
 </text>
 </svg>
