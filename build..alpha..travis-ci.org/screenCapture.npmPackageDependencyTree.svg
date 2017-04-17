@@ -4,7 +4,7 @@
 <tspan x="10" y="26">12 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
-<tspan x="10" y="74">└─┬ mongoose@4.9.4 </tspan>
+<tspan x="10" y="74">└─┬ mongoose@4.9.5 </tspan>
 <tspan x="10" y="90">  ├─┬ async@2.1.4 </tspan>
 <tspan x="10" y="106">  │ └── lodash@4.17.4 </tspan>
 <tspan x="10" y="122">  ├── bson@1.0.4 </tspan>
