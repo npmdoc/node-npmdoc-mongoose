@@ -1,1 +1,39 @@
-{     "devDependencies": {         "mongoose": "*",         "electron-lite": "kaizhu256/node-electron-lite#alpha",         "utility2": "kaizhu256/node-utility2#alpha"     },     "name":"npmdoc-mongoose",     "homepage": "https://github.com/npmdoc/node-npmdoc-mongoose",     "repository": {         "type": "git",         "url": "https://github.com/npmdoc/node-npmdoc-mongoose.git"     },     "scripts": {         "build-ci": "utility2 shReadmeTest build_ci.sh"     },     "version": "0.0.1" }
+{
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "description": "#### api documentation for  [mongoose (v4.9.5)](http://mongoosejs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongoose.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongoose) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongoose.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongoose)",
+    "devDependencies": {
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "mongoose": "*",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmdoc/node-npmdoc-mongoose",
+    "keywords": [
+        "documentation",
+        "mongoose"
+    ],
+    "license": "MIT",
+    "main": "lib.npmdoc_mongoose.js",
+    "name": "npmdoc-mongoose",
+    "nameAlias": "npmdoc_mongoose",
+    "nameOriginal": "npmdoc-mongoose",
+    "os": [
+        "darwin",
+        "linux"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmdoc/node-npmdoc-mongoose.git"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "npm install \"kaizhu256/node-utility2#alpha\" && utility2 shDeployHeroku",
+        "postinstall": "[ ! -f npm_scripts.sh ] || ./npm_scripts.sh postinstall",
+        "start": "PORT=${PORT:-8080} utility2 start test.js",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
+    },
+    "version": "0.0.7"
+}
